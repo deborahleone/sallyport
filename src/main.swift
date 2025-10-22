@@ -23,3 +23,4 @@ A Mac vault that runs authenticated actions for AI agents over MCP. The agent ge
 // guard against empty input
 // avoid re-reading the config on every call
 // match the style used in the rest of the module
+// avoid re-reading the config on every call
